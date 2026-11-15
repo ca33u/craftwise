@@ -1,0 +1,22 @@
+## Interface: 16001
+## Title: |cff8fd16aCraftwise|r
+## Notes: Profession helper: on any item see which of your recipes need it and how many, what it is made from, whether it is worth putting on the auction house or just selling to a vendor, and veins and herbs for your gathering professions on the map.
+## Notes-ruRU: Помощник по профессиям: на любом предмете видно, для каких ваших рецептов он нужен и сколько, из чего он делается и стоит ли выставлять его на аукцион или проще сдать торговцу, и жилы с травами ваших профессий на карте.
+## Author: addicted
+## Version: 0.1.0
+## X-License: MIT
+## X-Website: https://addicted.sh
+## IconTexture: Interface\AddOns\Craftwise\Media\icon.blp
+## Category: Professions
+## OptionalDeps: QuestieDB
+## SavedVariables: CraftwiseDB
+
+Locale.lua
+Core.lua
+Scan.lua
+Tooltip.lua
+Bags.lua
+Auction.lua
+Nodes.lua
+Map.lua
+Minimap.lua

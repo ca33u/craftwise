@@ -1,0 +1,10 @@
+package-as: Craftwise
+
+ignore:
+  - tests
+  - install.sh
+  - .gitignore
+  - .github
+  - .pkgmeta
+  - Media/logo.png
+  - Media/thumbnail.png
